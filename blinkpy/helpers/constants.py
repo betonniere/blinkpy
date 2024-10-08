@@ -1,8 +1,6 @@
 """Generates constants for use in blinkpy."""
 
-import importlib.metadata
-
-__version__ = importlib.metadata.version("blinkpy")
+__version__ = '0.25.7'
 
 """
 URLS
